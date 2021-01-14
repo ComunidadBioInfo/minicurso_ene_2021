@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: [css/style.css, css/toc.css, css/cdsb.css]
+  config:
+    toc:
+      before: |
+        <li><a href="./">Arreo de datos con R</a></li>
+      after: |
+        <li><a href="https://github.com/tereom" target="blank">Repositorio en Github</a></li>
+

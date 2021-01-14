@@ -1,0 +1,34 @@
+--- 
+title: "Navegando y aprovechando el poder de Tidyverse"
+author: "Teresa Ortiz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+bibliography: [book.bib]
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+description: "Notas y material para taller de introducción a transformación y agrupación de datos con R"
+---
+
+# Información del curso {-}
+
+Notas y material para taller de introducción a transformación y agrupación de datos con R para la Red Mexicana de Bioinformática.
+
+* Notas: <https://poder-tidyverse.netlify.app/>
+
+* Dudas: <teresa.ortiz.mancera@gmail.com>
+
+La referencia principal de este material es el libro [R for Data Science](https://r4ds.had.co.nz/) de Hadley Wickham y Garret Grolemund.
+
+</br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este trabajo está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
+
+
+### Software {-}
+
+- [R](https://cran.r-project.org) Sitio de R (CRAN)  
+- [RStudio](https://www.rstudio.com/products/RStudio/) Interfaz gráfica para trabajar en R.  
+
+![](img/logos.png)

@@ -1,0 +1,17 @@
+# Prepara tu espacio
+
+1. Instala [R](https://cran.r-project.org) y [RStudio](https://www.rstudio.com/products/rstudio/download/) en tu computadora.
+
+2. Instala la colección de paquetes tidyverse (`install.packages("tidyverse")`) y 
+el paquete usethis (`install.packages("usethis")`).
+
+3. Descarga el material de la sesión.
+
+```{r, eval=FALSE}
+library(usethis)
+use_course()
+```
+
+4. ¡Listos para arrear datos!
+
+![Artwork by \@allison_horst.](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/dplyr_wrangling.png)
