@@ -1,7 +1,7 @@
 
 # Mini curso enero 2021: Navegando y aprovechando el poder de Tidyverse
 
-Este es el material del mini curso "Navegando y aprovechando el poder de Tidyverse" ofrecido por la Red Mexicana de Bioinformática.
+Este es el código para generar el material del mini curso [Navegando y aprovechando el poder de Tidyverse](https://poder-tidyverse.netlify.app/) ofrecido por la Red Mexicana de Bioinformática.
 
 Fecha: 15 de enero de 2021
 
@@ -10,4 +10,9 @@ Instructores:
 [Maria Teresa Ortiz Mancera](https://tereom.netlify.app/)
 
 
-Para descargar este material da click en el botón Code y selecciona la opción Download zip. Si lo prefieres, puedes clonar el repositorio en tu computadora usando git clone desde tu terminal.
+Para descargar este material de la sesión instala el paquete usethis (`install.packages("usethis")`) y corre lo siguiente.
+
+``
+library(usethis)
+use_course("https://github.com/ComunidadBioInfo/minicurso_ene_2021/raw/main/_material.zip")
+```
