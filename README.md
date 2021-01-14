@@ -12,7 +12,7 @@ Instructores:
 
 Para descargar este material de la sesión instala el paquete usethis (`install.packages("usethis")`) y corre lo siguiente.
 
-``
+```
 library(usethis)
 use_course("https://github.com/ComunidadBioInfo/minicurso_ene_2021/raw/main/_material.zip")
 ```
